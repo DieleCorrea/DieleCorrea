@@ -1,7 +1,7 @@
 ### Olá me chamo Diéle, seja bem vindo ao meu github 👋
 ![Diele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieleCorrea&show_icons=true&theme=radical)
 
-### 📌Atualmente faço: 
+### 📌Atualmente faço:
 </div>
         <div>- Tecnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha (4° semestre). </div>
         <div>- Curso de qualificação profissional em Programação Web presencial pelo IFSUL - Instituto Federal Sul-rio-grandense. </div>     
