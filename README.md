@@ -9,7 +9,7 @@
          
 ### Estou inserindo meus projetos aos poucos, em meu Técnico em informática para Internet ja aprendi:
   <div>
-        <div> -Conhecimentos gerais da estrutura dos computadores e sua montagem. </div> 
+        <div> -Conhecimentos gerais da estrutura dos computadores e sua montagem.  </div> 
         <div> -Java (Desenvolvimento mobile e Web, criar aplicações seguindo os princípios da orientação a objeto) </div> 
         <div> -Csharp (Domínio da linguagem, manipulação CRUD e usando Entity Framework) </div> 
         <div> -Banco de dados relacional SQL Oracle Database (Triggers, cursor, procedures, function ). </div> 
