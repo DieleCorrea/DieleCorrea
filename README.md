@@ -12,7 +12,7 @@
         <div> -Conhecimentos gerais da estrutura dos computadores e sua montagem.  </div> 
         <div> -Java (Desenvolvimento mobile e Web, criar aplicações seguindo os princípios da orientação a objeto) </div> 
         <div> -Csharp (Domínio da linguagem, manipulação CRUD e usando Entity Framework) </div> 
-        <div> -Banco de dados relacional SQL Oracle Database (Triggers, cursor, procedures, function ). </div> 
+        <div> -Banco de dados relacional SQL Oracle Database. </div> 
         <div> -Compreensão e instalação de redes de computadores. </div> 
         <div> -Conhecimento e manipulação de ferramenta para testes (Selenium).</div> 
         <div> -Metodologias Tradicionais e Ágeis (Scrum etc.). </div> 
