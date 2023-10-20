@@ -3,6 +3,7 @@
 
 ### 📌Atualmente faço:
 </div>
+        <div>- Estágio em desenvolvimento full stack, onde a principal linguagem que atuo é C#, dart com flutter e JavaScript, além disso auxilio nos testes automatizados e no bando de dados! </div>
         <div>- Tecnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha (4° semestre). </div>
         <div>- Curso de qualificação profissional em Programação Web presencial pelo IFSUL - Instituto Federal Sul-rio-grandense. </div>     
 </div>
