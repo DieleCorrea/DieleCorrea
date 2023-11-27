@@ -1,5 +1,7 @@
 ### Olá me chamo Diéle, seja bem vindo ao meu github 👋
 ![Diele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieleCorrea&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DieleCorrea&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+
 
 ### 📌Atualmente faço:
 </div>
