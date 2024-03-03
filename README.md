@@ -2,11 +2,11 @@
 
 ![Diele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DieleCorrea&show_icons=true&theme=radical)
 
-### 📌Atualmente faço:
+### 📌Atualmente :
 </div>
-        <div>- Estágio em desenvolvimento full stack, onde a principal linguagem que atuo é C#, dart com flutter e JavaScript, além disso auxilio nos testes automatizados e no banco de dados! </div>
-        <div>- Tecnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha (4° semestre). </div>
-        <div>- Curso de qualificação profissional em Programação Web presencial pelo IFSUL - Instituto Federal Sul-rio-grandense. </div>     
+        <div>- Sou desenvolvedora full stack focadomais no back end onde a principal linguagem que atuo é C#, junto de dart com flutter e JavaScript e Sql! </div>
+        <div>- Concluindo Tecnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha . </div>
+        <div>- Possuo Curso de qualificação profissional em Programação Web presencial pelo IFSUL - Instituto Federal Sul-rio-grandense. </div>     
 </div>
          
 ### Estou inserindo meus projetos aos poucos, em meu Técnico em informática para Internet ja aprendi:
