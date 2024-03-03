@@ -4,7 +4,8 @@
 
 ### 📌Atualmente :
 </div>
-        <div>- Sou desenvolvedora full stack da Rodosoft Tecnologia com maior foco no back end onde a principal linguagem que atuo é C#, junto de dart com flutter e JavaScript e Sql! </div>
+        <div>- Sou desenvolvedora full stack da Rodosoft Tecnologia.
+        <div>- Foco no back end onde a principal linguagem que atuo é C#, junto de dart com flutter e JavaScript e Sql! </div>
         <div>- Concluindo Tecnico em informática para internet na Fundação Escola Técnica Liberato Salzano Vieira da Cunha . </div>
         <div>- Possuo Curso de qualificação profissional em Programação Web presencial pelo IFSUL - Instituto Federal Sul-rio-grandense. </div>     
 </div>
